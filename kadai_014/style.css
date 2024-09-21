@@ -1,0 +1,48 @@
+body{
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+body {
+  font-size: 20px;
+}
+body {
+  text-align: center;
+}
+#first-heading {
+  font-size: 40px;
+}
+
+#first-heading {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#first-heading {
+  border-bottom: solid 3px rgb(115, 115, 114);
+  letter-spacing: 1.2em;
+  text-shadow: 3px 3px 2px gray;
+}
+
+/*正？*/
+#parent > p {
+  font-weight: bold;
+}
+
+#text-pink {
+  color: pink;
+}
+
+#text-skyblue {
+  color: skyblue;
+}
+
+
+.text-pink {
+  color: rgb(255, 192, 203);
+}
+.text-skyblue {
+  color: skyblue;
+}
+
+
